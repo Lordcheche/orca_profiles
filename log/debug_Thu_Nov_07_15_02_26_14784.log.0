@@ -1,0 +1,48 @@
+[error]	2024-11-07 15:02:33.395960[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:33.504979[Thread 0x00005138]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-11-07 15:02:33.505980[Thread 0x00007028]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-07 15:02:33.505980[Thread 0x00004e98]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-07 15:02:33.513482[Thread 0x000079b8]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-11-07 15:02:33.513482[Thread 0x0000530c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-11-07 15:02:33.513981[Thread 0x000044e4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-11-07 15:02:33.514482[Thread 0x00005138]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-11-07 15:02:33.514482[Thread 0x00004808]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-11-07 15:02:33.514482[Thread 0x00006198]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-11-07 15:02:33.514982[Thread 0x00000584]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-11-07 15:02:33.515482[Thread 0x00004e98]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-11-07 15:02:33.515482[Thread 0x00007028]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-11-07 15:02:36.896073[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.228306[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.259311[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.280815[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.302819[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.324823[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.325823[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.326322[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:02:38.349827[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, inherit_name Bambu Lab A1 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the printer preset not inherit from system
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 3 preset not inherit from system
+[warning]	2024-11-07 15:02:38.586368[Thread 0x00007028]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found self defined presets, count 2
+[error]	2024-11-07 15:03:39.205474[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:39.205974[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:39.206973[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:39.207474[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:39.207974[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:39.208474[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:03:40.282662[Thread 0x00007028]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-11-07 15:03:40.366176[Thread 0x00007028]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[warning]	2024-11-07 15:39:30.520339[Thread 0x00007028]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[warning]	2024-11-07 15:39:34.598089[Thread 0x00007028]:Slic3r::GUI::Plater::reslice: process_completed_with_error, return directly
+[error]	2024-11-07 15:39:44.770961[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.771960[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.772961[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.773461[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.773962[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.774961[Thread 0x00007028]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:39:44.925988[Thread 0x00007028]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

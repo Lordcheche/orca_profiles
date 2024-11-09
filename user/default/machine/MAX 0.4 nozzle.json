@@ -1,0 +1,40 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "MyMarlin 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_extruding": [
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "1000"
+    ],
+    "machine_max_acceleration_y": [
+        "1000"
+    ],
+    "machine_max_speed_x": [
+        "150"
+    ],
+    "machine_max_speed_y": [
+        "150"
+    ],
+    "machine_max_speed_z": [
+        "20"
+    ],
+    "machine_start_gcode": "M204 S[machine_max_acceleration_extruding] T[machine_max_acceleration_retracting]\nM104 S[first_layer_temperature] ; set extruder temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for extruder temp\nM117\nSTART_PRINT",
+    "name": "MAX 0.4 nozzle",
+    "nozzle_type": "brass",
+    "print_host": "192.168.178.14:7126",
+    "print_host_webui": "192.168.178.14",
+    "printable_area": [
+        "0x0",
+        "400x0",
+        "400x400",
+        "0x400"
+    ],
+    "printable_height": "500",
+    "printer_settings_id": "MAX 0.4 nozzle",
+    "support_multi_bed_types": "1",
+    "version": "2.0.2.0"
+}

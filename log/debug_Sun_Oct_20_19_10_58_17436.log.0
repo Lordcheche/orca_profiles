@@ -1,0 +1,20 @@
+[error]	2024-10-20 19:11:07.500660[Thread 0x00005e3c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-20 19:11:07.521164[Thread 0x00005e3c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-20 19:11:07.529170[Thread 0x00002228]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-20 19:11:07.530170[Thread 0x0000268c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-20 19:11:07.531171[Thread 0x00002aac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-20 19:11:07.531171[Thread 0x00003144]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-20 19:11:07.533171[Thread 0x00004ab8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-20 19:11:07.534677[Thread 0x000044c0]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-20 19:11:07.536677[Thread 0x00006430]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-20 19:11:07.538210[Thread 0x0000268c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-20 19:11:07.539744[Thread 0x00004ab8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-20 19:11:07.539744[Thread 0x00002228]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-20 19:11:07.539744[Thread 0x00003144]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-20 19:11:07.540739[Thread 0x00002aac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-20 19:11:11.483703[Thread 0x00005e3c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-20 19:11:11.760537[Thread 0x00005e3c]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-20 19:12:33.500389[Thread 0x00005e3c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-20 19:12:53.175262[Thread 0x00005e3c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-20 19:12:54.153255[Thread 0x00005e3c]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-20 22:37:25.723806[Thread 0x00005e3c]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

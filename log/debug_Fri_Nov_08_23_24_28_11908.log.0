@@ -1,0 +1,12 @@
+[error]	2024-11-08 23:24:42.239085[Thread 0x000049c4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 23:24:42.267590[Thread 0x00004414]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-11-08 23:24:42.277091[Thread 0x00002f38]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-11-08 23:24:42.284093[Thread 0x000046e8]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-11-08 23:24:42.285593[Thread 0x00002f38]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-11-08 23:24:42.286594[Thread 0x00005498]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-11-08 23:24:42.290093[Thread 0x00000b74]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-11-08 23:24:42.293094[Thread 0x00004414]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-11-08 23:24:42.294094[Thread 0x00007570]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-11-08 23:24:42.294594[Thread 0x00007200]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-08 23:24:42.298095[Thread 0x00002f38]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-11-08 23:24:42.304096[Thread 0x00000b74]:File Metadata/plate_1.png not found from archive

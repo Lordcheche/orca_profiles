@@ -1,0 +1,132 @@
+[error]	2024-11-08 11:57:16.402685[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 11:57:16.483050[Thread 0x00002b90]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-11-08 11:57:16.490554[Thread 0x00007eec]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-11-08 11:57:16.491554[Thread 0x00002dd8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-11-08 11:57:16.491554[Thread 0x00004bb4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-11-08 11:57:16.491554[Thread 0x00003a84]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-11-08 11:57:16.492554[Thread 0x00004298]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-11-08 11:57:16.494068[Thread 0x00003f30]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-11-08 11:57:16.497102[Thread 0x00001da0]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-08 11:57:16.500122[Thread 0x00007eec]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-11-08 11:57:16.500122[Thread 0x00004bb4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-11-08 11:57:16.501122[Thread 0x00002dd8]:File Metadata/plate_1.png not found from archive
+[warning]	2024-11-08 11:57:19.614707[Thread 0x000051e4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-08 11:57:27.483393[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 11:57:27.780795[Thread 0x000051e4]:Slic3r::_BBS_3MF_Importer::_load_model_from_file:1664, loading sub-objects error
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Grundplatte_1.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Grundplatte_1.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Grundplatte_1.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifterstift_4.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifterstift_4.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Lifterstift_4.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotator_7.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotator_7.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Rotator_7.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Behälter_9.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SchieberUnten_10.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Behälter_9.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Behälter_9.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotatorbolzen_12.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SchieberUnten_10.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/SchieberUnten_10.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifter1_5.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifter1_5.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotatorbolzen_12.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Lifter1_5.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Rotatorbolzen_12.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SorterV2_8.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SorterV2_8.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/SorterV2_8.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifter2_3.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Lifter2_3.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Lifter2_3.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SchieberOben_11.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/SchieberOben_11.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/SchieberOben_11.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Griff_28.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Griff_28.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Griff_28.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/MainPlate_57.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/MainPlate_57.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/MainPlate_57.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Klemme_42.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Klemme_42.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Klemme_42.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Schaufel (1)_15.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Schaufel (1)_15.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Schaufel (1)_15.model
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotatordeckel_26.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:File /3D/Objects/Rotatordeckel_26.model not found from archive
+[error]	2024-11-08 11:57:27.781305[Thread 0x000051e4]:Archive does not contain a valid model for /3D/Objects/Rotatordeckel_26.model
+[error]	2024-11-08 12:12:30.171880[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:30.983699[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.008883[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.032497[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.052846[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.072172[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.072680[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.073188[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:31.093970[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, inherit_name Bambu Lab A1 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the printer preset not inherit from system
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 3 preset not inherit from system
+[warning]	2024-11-08 12:12:31.243505[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found self defined presets, count 2
+[error]	2024-11-08 12:12:34.524234[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:34.524234[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:34.525233[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:34.525233[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:34.526351[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:34.526351[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:35.258354[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:12:54.421578[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:12:54.503624[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:02.494355[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:25.863281[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.415302[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.435964[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.456962[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.476769[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.497036[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.498033[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.499033[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:26.518400[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Bambu Lab A1 0.4 nozzle, inherit_name Bambu Lab A1 0.4 nozzle, can not found preset and inherit in list
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the printer preset not inherit from system
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 2 preset not inherit from system
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetCollection::validate_preset: preset_name Generic PLA @BBL A1, no inherit, set to not found
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found the filament 3 preset not inherit from system
+[warning]	2024-11-08 12:13:26.635625[Thread 0x000051e4]:Slic3r::PresetBundle::validate_presets:file_name PrintProfileV4.3mf, found self defined presets, count 2
+[error]	2024-11-08 12:13:35.450266[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.451262[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.452262[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.452782[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.453296[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.454289[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:35.672946[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:13:35.732322[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:13:46.060273[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.061267[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.062267[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.062267[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.063792[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.063792[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:46.156996[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:13:46.506074[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:13:52.574011[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.575012[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.576012[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.577012[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.577012[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.578012[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-08 12:13:52.677332[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:13:53.060913[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 12:17:04.694471[Thread 0x000051e4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-11-08 23:02:50.627224[Thread 0x000051e4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

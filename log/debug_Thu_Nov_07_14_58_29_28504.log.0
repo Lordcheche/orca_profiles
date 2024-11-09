@@ -1,0 +1,44 @@
+[error]	2024-11-07 14:58:37.504729[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 14:58:37.595745[Thread 0x000053b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-11-07 14:58:37.606247[Thread 0x00006dac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-11-07 14:58:37.607248[Thread 0x00005e48]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-11-07 14:58:37.607748[Thread 0x00004944]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-11-07 14:58:37.608748[Thread 0x000053b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-11-07 14:58:37.609248[Thread 0x00003438]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-11-07 14:58:37.609248[Thread 0x00002cd0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-11-07 14:58:37.609248[Thread 0x00001f54]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-11-07 14:58:37.616249[Thread 0x000030dc]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-07 14:58:37.617749[Thread 0x00004944]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-11-07 14:58:37.619750[Thread 0x00005e48]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-11-07 14:58:37.621250[Thread 0x00006dac]:File Metadata/plate_1.png not found from archive
+[warning]	2024-11-07 14:58:41.036847[Thread 0x000030dc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-07 15:03:58.945927[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:00.191644[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:00.194645[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:00.195645[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:01.786923[Thread 0x000030dc]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-07 15:04:41.937448[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:41.939448[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:04:41.940449[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-07 15:04:59.628543[Thread 0x00002c50]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-11-07 15:05:53.794330[Thread 0x00002c50]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-11-07 15:06:08.366897[Thread 0x00002c50]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-11-07 15:06:24.321915[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:24.856509[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:24.859009[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:24.859509[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:26.482793[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.271807[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.273807[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.274807[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.275307[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.276307[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-07 15:06:32.277307[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-07 15:06:58.739757[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-11-07 15:07:02.714981[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-11-07 15:07:06.152784[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-11-07 15:07:31.225840[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-11-07 15:07:38.985278[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-11-07 15:08:33.809891[Thread 0x00002478]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[error]	2024-11-07 15:08:49.641047[Thread 0x000030dc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-11-07 15:09:22.952002[Thread 0x00002c50]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

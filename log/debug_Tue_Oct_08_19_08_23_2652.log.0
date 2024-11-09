@@ -1,0 +1,15 @@
+[error]	2024-10-08 19:08:30.948336[Thread 0x00005914]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-08 19:08:30.977500[Thread 0x0000100c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-08 19:08:30.978494[Thread 0x000060e4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-08 19:08:30.978494[Thread 0x00006d50]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-08 19:08:30.979494[Thread 0x00006770]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-08 19:08:30.979494[Thread 0x0000267c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-08 19:08:30.980157[Thread 0x000034a4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-08 19:08:30.980157[Thread 0x000007e0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-08 19:08:30.980666[Thread 0x00002520]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-08 19:08:30.981662[Thread 0x00004608]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-08 19:08:30.986595[Thread 0x00006770]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-08 19:08:30.987106[Thread 0x000034a4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-08 19:08:30.987623[Thread 0x000060e4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-08 19:08:30.988612[Thread 0x0000100c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[warning]	2024-10-08 19:08:34.349223[Thread 0x00005914]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!

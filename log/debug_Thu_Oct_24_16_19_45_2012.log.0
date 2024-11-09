@@ -1,0 +1,41 @@
+[error]	2024-10-24 16:19:52.491020[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 16:19:52.519072[Thread 0x00006b30]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-24 16:19:52.519072[Thread 0x000040b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-24 16:19:52.519072[Thread 0x00006b30]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-24 16:19:52.520072[Thread 0x000060c4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-24 16:19:52.520072[Thread 0x000039c8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-24 16:19:52.520072[Thread 0x0000670c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-24 16:19:52.520072[Thread 0x00002844]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-24 16:19:52.526747[Thread 0x000039c8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-24 16:19:52.526747[Thread 0x00006b30]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-24 16:19:52.527746[Thread 0x0000670c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-24 16:19:52.527746[Thread 0x000060c4]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-24 16:19:52.528746[Thread 0x000040b8]:File Metadata/plate_1.png not found from archive
+[warning]	2024-10-24 16:19:55.678591[Thread 0x000043b0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-24 16:20:00.872921[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 16:20:01.195985[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 16:24:17.370854[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-24 17:33:19.793338[Thread 0x00005218]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[error]	2024-10-24 22:16:27.739012[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-24 23:31:12.118235[Thread 0x000043b0]:Fontlist cache - 'C:\Users\alex\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2024-10-24 23:31:12.698087[Thread 0x000043b0]:Failed to write fontlist cache - C:\Users\alex\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2024-10-24 23:31:29.666596[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 23:31:29.668592[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 23:31:29.669593[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 23:31:30.242092[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 23:31:30.244093[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-24 23:31:30.244093[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-26 01:09:25.744575[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-26 01:15:04.050736[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 13:11:37.042807[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 13:12:32.376963[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 13:13:17.323621[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 13:14:25.195209[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 13:15:10.992278[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 14:12:40.210609[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-26 14:13:04.919517[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-10-26 22:04:31.405257[Thread 0x000043b0]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[warning]	2024-10-26 22:04:36.000919[Thread 0x00005218]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-10-26 22:08:00.958894[Thread 0x00005218]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[warning]	2024-10-26 22:08:02.807862[Thread 0x00003620]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[error]	2024-10-27 12:37:13.631599[Thread 0x000043b0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

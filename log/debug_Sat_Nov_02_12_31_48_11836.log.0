@@ -1,0 +1,19 @@
+[error]	2024-11-02 12:31:55.452760[Thread 0x000026c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-02 12:31:55.537652[Thread 0x00001210]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-11-02 12:31:55.547011[Thread 0x00005db4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-11-02 12:31:55.547011[Thread 0x000053cc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-11-02 12:31:55.547840[Thread 0x00005a8c]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-11-02 12:31:55.547840[Thread 0x00000fa8]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-11-02 12:31:55.547840[Thread 0x00005bf4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-11-02 12:31:55.547840[Thread 0x00004e44]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-11-02 12:31:55.550919[Thread 0x000026c8]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-02 12:31:55.550919[Thread 0x00004124]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-02 12:31:55.554443[Thread 0x00005bf4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-11-02 12:31:55.555444[Thread 0x00005a8c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-11-02 12:31:55.555444[Thread 0x00000fa8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[warning]	2024-11-02 12:31:58.650784[Thread 0x000026c8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-11-02 12:32:01.878226[Thread 0x000026c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-02 12:32:02.280399[Thread 0x000026c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-02 12:32:02.288151[Thread 0x000026c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-11-02 12:32:02.699192[Thread 0x000026c8]:File Metadata/plate_1.png not found from archive
+[error]	2024-11-02 12:32:10.211398[Thread 0x000026c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

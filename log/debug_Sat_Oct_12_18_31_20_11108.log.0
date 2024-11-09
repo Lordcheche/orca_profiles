@@ -1,0 +1,21 @@
+[error]	2024-10-12 18:31:28.528412[Thread 0x000027c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-12 18:31:28.559563[Thread 0x000052b4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-12 18:31:28.559563[Thread 0x00003a78]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-12 18:31:28.560076[Thread 0x000028f0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-12 18:31:28.560587[Thread 0x00005814]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-12 18:31:28.560587[Thread 0x00003b1c]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-12 18:31:28.561102[Thread 0x00005d34]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-12 18:31:28.561615[Thread 0x00005b78]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-12 18:31:28.561615[Thread 0x00003140]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-12 18:31:28.565206[Thread 0x00003954]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-12 18:31:28.568302[Thread 0x00000a30]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-12 18:31:28.570853[Thread 0x00005d34]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-12 18:31:28.571365[Thread 0x00005814]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-12 18:31:28.572905[Thread 0x000028f0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[warning]	2024-10-12 18:31:32.221016[Thread 0x000027c8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-12 18:33:51.069764[Thread 0x000027c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-12 18:33:51.366581[Thread 0x000027c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-13 00:00:46.421350[Thread 0x000027c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-13 00:00:47.046742[Thread 0x000027c8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[warning]	2024-10-13 00:01:26.765597[Thread 0x00005c60]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":36.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":65.000000,"printable_height":500.000000,
+[error]	2024-10-13 00:01:53.568040[Thread 0x000027c8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,39 @@
+[error]	2024-10-03 17:15:06.034086[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:15:06.061372[Thread 0x000035f4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-03 17:15:06.061372[Thread 0x00001d00]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-03 17:15:06.061372[Thread 0x00005580]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-03 17:15:06.061372[Thread 0x00002c24]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-03 17:15:06.062373[Thread 0x000064d8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-03 17:15:06.064220[Thread 0x00001620]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-03 17:15:06.064220[Thread 0x00006418]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Shelly.stl
+[error]	2024-10-03 17:15:06.065214[Thread 0x00004b94]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-03 17:15:06.065214[Thread 0x00004768]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-03 17:15:06.065214[Thread 0x000011e8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-03 17:15:06.070215[Thread 0x00005580]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-03 17:15:06.070215[Thread 0x000035f4]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-03 17:15:06.071215[Thread 0x00001620]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-03 17:15:08.938115[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-03 17:15:09.152989[Thread 0x000064d8]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-03 17:27:28.190203[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:28.566692[Thread 0x000064d8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-03 17:27:31.694633[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:32.093467[Thread 0x000064d8]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-03 17:27:42.444188[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:42.893253[Thread 0x000064d8]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-03 17:27:44.736034[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:45.109211[Thread 0x000064d8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-03 17:27:48.092208[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:48.990383[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.018390[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.041395[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.059925[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.078950[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.079950[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.079950[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:27:49.103956[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:28:08.652235[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-03 17:28:41.508183[Thread 0x000064d8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[warning]	2024-10-03 21:38:51.406148[Thread 0x000064d8]:Fontlist cache - 'C:\Users\alex\AppData\Roaming\OrcaSlicer\cache\fonts.cereal' does not exists.
+[error]	2024-10-03 21:38:51.724336[Thread 0x000064d8]:Failed to write fontlist cache - C:\Users\alex\AppData\Roaming\OrcaSlicer\cache\fonts.cerealFailed to write 4 bytes to output stream! Wrote 0
+[error]	2024-10-03 22:15:59.568250[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 11:42:14.679641[Thread 0x000064d8]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

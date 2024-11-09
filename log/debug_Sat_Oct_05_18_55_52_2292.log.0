@@ -1,0 +1,17 @@
+[error]	2024-10-05 18:55:59.223332[Thread 0x00002f14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-05 18:55:59.251131[Thread 0x00004968]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-05 18:55:59.251131[Thread 0x00003b10]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-05 18:55:59.251131[Thread 0x000035f8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-05 18:55:59.251131[Thread 0x00000bd4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-05 18:55:59.252940[Thread 0x00003140]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-05 18:55:59.253452[Thread 0x000020b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-05 18:55:59.254446[Thread 0x00003b04]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-05 18:55:59.254446[Thread 0x00000a28]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-05 18:55:59.255446[Thread 0x00002dd8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-05 18:55:59.258954[Thread 0x00003140]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-05 18:55:59.258954[Thread 0x00003b10]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-05 18:55:59.258954[Thread 0x00004968]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-05 18:55:59.260966[Thread 0x000020b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[warning]	2024-10-05 18:56:02.315285[Thread 0x00002f14]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-05 18:56:06.954283[Thread 0x00002f14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-05 18:56:08.001953[Thread 0x00002f14]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

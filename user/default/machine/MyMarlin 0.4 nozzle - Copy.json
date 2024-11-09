@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "gcode_flavor": "marlin2",
+    "inherits": "MyMarlin 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "MyMarlin 0.4 nozzle - Copy",
+    "nozzle_type": "brass",
+    "printable_height": "500",
+    "printer_settings_id": "MyMarlin 0.4 nozzle - Copy",
+    "support_multi_bed_types": "1",
+    "version": "2.0.2.0"
+}

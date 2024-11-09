@@ -1,0 +1,51 @@
+[error]	2024-10-21 19:27:01.207841[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:27:01.247816[Thread 0x00000e00]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-21 19:27:01.247816[Thread 0x00000598]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-21 19:27:01.247816[Thread 0x00005870]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-21 19:27:01.248950[Thread 0x000033f8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-21 19:27:01.248950[Thread 0x00002500]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-21 19:27:01.248950[Thread 0x00004424]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-21 19:27:01.249940[Thread 0x00004424]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-21 19:27:01.249940[Thread 0x000032a0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-21 19:27:01.255203[Thread 0x0000372c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-21 19:27:01.255203[Thread 0x00005870]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-21 19:27:01.257627[Thread 0x000051d4]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-21 19:27:01.258622[Thread 0x00002500]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-21 19:27:01.258622[Thread 0x00000e00]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-21 19:27:05.717948[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-21 19:27:06.173501[Thread 0x000051d4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-21 19:29:07.307977[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.236774[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.255012[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.270951[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.287376[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.305502[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.306009[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:08.307006[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:09.533862[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:15.691424[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:28.368790[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:30.240470[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:30.764078[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:31.170746[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:31.528825[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:29:33.031316[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-10-21 19:29:45.803910[Thread 0x000041dc]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[error]	2024-10-21 19:29:45.917389[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:29:45.917389[Thread 0x000051d4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-21 19:34:11.170695[Thread 0x000038a0]:Slic3r::BackgroundSlicingProcess::call_process:got cancelled exception
+[error]	2024-10-21 19:34:16.106642[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:34:17.872979[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 19:34:28.441476[Thread 0x00002e9c]:transition on segment lies outside of segment!
+[error]	2024-10-21 19:34:28.595431[Thread 0x00004424]:transition on segment lies outside of segment!
+[error]	2024-10-21 19:34:28.595431[Thread 0x00004424]:transition on segment lies outside of segment!
+[error]	2024-10-21 19:34:28.676975[Thread 0x000038a0]:transition on segment lies outside of segment!
+[warning]	2024-10-21 23:22:05.509202[Thread 0x000041dc]:Arrange full params: {"min_obj_distance":2000000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":140.000000,"cleareance_radius":60.000000,"printable_height":220.000000,
+[error]	2024-10-21 23:22:13.597371[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 23:22:23.558759[Thread 0x0000097c]:transition on segment lies outside of segment!
+[error]	2024-10-21 23:22:23.706058[Thread 0x00004424]:transition on segment lies outside of segment!
+[error]	2024-10-21 23:22:23.706058[Thread 0x00004424]:transition on segment lies outside of segment!
+[error]	2024-10-21 23:22:23.868262[Thread 0x000038a0]:transition on segment lies outside of segment!
+[error]	2024-10-21 23:22:23.868262[Thread 0x000038a0]:transition on segment lies outside of segment!
+[error]	2024-10-21 23:22:29.550984[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-21 23:22:30.162995[Thread 0x000051d4]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

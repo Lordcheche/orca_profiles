@@ -1,0 +1,19 @@
+[error]	2024-10-30 15:04:21.823278[Thread 0x00001cd4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-30 15:04:21.904136[Thread 0x00001cd4]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-10-30 15:04:21.904136[Thread 0x00000adc]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-30 15:04:21.904136[Thread 0x000050d8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x000016c4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-30 15:04:21.904645[Thread 0x00004fac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x00002fb8]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-30 15:04:21.904645[Thread 0x00002a38]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x000016c4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x00001d5c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x0000322c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x00000adc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-30 15:04:21.904645[Thread 0x00002fb8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-30 15:04:24.513534[Thread 0x00001cd4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-30 15:04:24.792886[Thread 0x00001cd4]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-30 15:04:58.835762[Thread 0x00001cd4]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-30 15:05:00.000849[Thread 0x00001cd4]:File Metadata/plate_1.png not found from archive
+[warning]	2024-10-30 15:05:05.363013[Thread 0x000033d0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used
+[warning]	2024-10-30 15:07:02.190140[Thread 0x000033d0]:SupportSpotsGenerator does not currently handle different materials properly, only first will be used

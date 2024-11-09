@@ -1,0 +1,72 @@
+{
+    "deretraction_speed": [
+        "30"
+    ],
+    "extruder_clearance_height_to_rod": "30",
+    "extruder_clearance_radius": "60",
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "MyMarlin 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_e": [
+        "1000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "1000"
+    ],
+    "machine_max_acceleration_y": [
+        "1000"
+    ],
+    "machine_max_speed_x": [
+        "150"
+    ],
+    "machine_max_speed_y": [
+        "150"
+    ],
+    "machine_start_gcode": "M204 S[machine_max_acceleration_extruding] T[machine_max_acceleration_retracting]\nM104 S[first_layer_temperature] ; set extruder temp\nM140 S[first_layer_bed_temperature] ; set bed temp\nM190 S[first_layer_bed_temperature] ; wait for bed temp\nM109 S[first_layer_temperature] ; wait for extruder temp\nM117\nSTART_PRINT\n",
+    "max_layer_height": [
+        "0.4"
+    ],
+    "name": "ProjectPrinter 0.6",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "nozzle_type": "brass",
+    "print_host": "192.168.178.14:7125",
+    "print_host_webui": "192.168.178.14",
+    "printable_area": [
+        "0x0",
+        "220x0",
+        "220x220",
+        "0x220"
+    ],
+    "printable_height": "220",
+    "printer_settings_id": "ProjectPrinter 0.6",
+    "retract_before_wipe": [
+        "0%"
+    ],
+    "retract_restart_extra": [
+        "0.16"
+    ],
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_speed": [
+        "30"
+    ],
+    "support_multi_bed_types": "1",
+    "version": "1.6.1.0",
+    "wipe": [
+        "1"
+    ],
+    "z_hop": [
+        "0.5"
+    ]
+}

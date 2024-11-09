@@ -1,0 +1,22 @@
+[error]	2024-10-05 16:12:24.988224[Thread 0x00000258]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-05 16:12:25.017446[Thread 0x000034ac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-05 16:12:25.017446[Thread 0x00001448]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-05 16:12:25.018437[Thread 0x0000555c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-05 16:12:25.019437[Thread 0x00005d68]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-05 16:12:25.019437[Thread 0x00000938]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-05 16:12:25.019437[Thread 0x00002978]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-05 16:12:25.020656[Thread 0x000038f4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-05 16:12:25.020656[Thread 0x00000258]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-05 16:12:25.021650[Thread 0x000040fc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-05 16:12:25.021650[Thread 0x00004950]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-05 16:12:25.021650[Thread 0x00005204]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-05 16:12:25.026831[Thread 0x00005d68]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-05 16:12:25.026831[Thread 0x00001448]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Shelly.stl
+[error]	2024-10-05 16:12:25.027827[Thread 0x00002978]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-05 16:12:27.942276[Thread 0x00000258]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-05 16:12:30.557526[Thread 0x00000258]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-05 16:13:00.741867[Thread 0x00000258]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-05 16:13:19.952565[Thread 0x00000258]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-05 16:13:20.050524[Thread 0x00000258]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-05 16:13:27.506221[Thread 0x00000258]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-05 16:13:30.436955[Thread 0x00000258]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

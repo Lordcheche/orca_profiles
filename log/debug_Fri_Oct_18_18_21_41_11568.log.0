@@ -1,0 +1,25 @@
+[error]	2024-10-18 18:21:51.046305[Thread 0x00002f48]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-18 18:21:51.075652[Thread 0x00001218]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-18 18:21:51.075652[Thread 0x00002850]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-18 18:21:51.076163[Thread 0x00005404]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-18 18:21:51.076163[Thread 0x00005cd4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-18 18:21:51.076163[Thread 0x00001478]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-18 18:21:51.076163[Thread 0x00002f48]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-18 18:21:51.076163[Thread 0x00002d88]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-18 18:21:51.077351[Thread 0x000012cc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-18 18:21:51.081347[Thread 0x00005dbc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-18 18:21:51.085732[Thread 0x00002850]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-18 18:21:51.088284[Thread 0x00005cd4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-18 18:21:51.090242[Thread 0x00001478]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-18 18:21:51.091241[Thread 0x00005404]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-18 18:21:54.258039[Thread 0x00002f48]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-10-18 18:21:54.505150[Thread 0x00002f48]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-18 19:07:22.471196[Thread 0x00002f48]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-18 19:09:39.285854[Thread 0x00002f48]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-18 19:09:43.293693[Thread 0x00002f48]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-18 19:11:28.568313[Thread 0x00004afc]:Slic3r::BackgroundSlicingProcess::call_process:got other exception
+[error]	2024-10-18 19:11:47.016146[Thread 0x00002f48]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Creality.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-18 19:11:47.074477[Thread 0x00002f48]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Dremel.json got exception: [json.exception.type_error.304] cannot use at() with string
+[error]	2024-10-18 19:11:50.245000[Thread 0x00002f48]:Slic3r::GUI::GuideFrame::LoadProfileFamily: parse C:\Program Files\OrcaSlicer\resources\profiles\Kingroon.json got exception: [json.exception.type_error.302] type must be string, but is null
+[error]	2024-10-18 19:18:45.886071[Thread 0x00002f48]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-18 19:33:37.739333[Thread 0x00002f48]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

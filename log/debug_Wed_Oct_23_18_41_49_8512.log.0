@@ -1,0 +1,19 @@
+[error]	2024-10-23 18:41:57.307276[Thread 0x00002efc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 18:41:57.339888[Thread 0x00002e20]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-23 18:41:57.351904[Thread 0x0000380c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-23 18:41:57.352905[Thread 0x000011b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-23 18:41:57.352905[Thread 0x00002fa4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-23 18:41:57.352905[Thread 0x00002e4c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-23 18:41:57.353416[Thread 0x00002e20]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-23 18:41:57.354411[Thread 0x00004e30]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-23 18:41:57.354411[Thread 0x00004038]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-23 18:41:57.356411[Thread 0x00000a08]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-23 18:41:57.359918[Thread 0x000011b8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-23 18:41:57.359918[Thread 0x00002e4c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-23 18:41:57.362918[Thread 0x00002e20]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[warning]	2024-10-23 18:42:00.611051[Thread 0x00002efc]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-23 19:05:53.549978[Thread 0x00002efc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 19:05:53.959366[Thread 0x00002efc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 19:05:54.707769[Thread 0x00002efc]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-10-23 19:05:59.712763[Thread 0x00002efc]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-23 19:05:59.826357[Thread 0x00002efc]:Slic3r::GUI::Tab::tree_sel_change_delayedcan not find page with current selection 

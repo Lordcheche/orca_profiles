@@ -1,0 +1,15 @@
+[error]	2024-10-04 18:33:13.026904[Thread 0x000030f0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-04 18:33:13.053470[Thread 0x00000ad4]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-10-04 18:33:13.053470[Thread 0x000013bc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-04 18:33:13.054471[Thread 0x0000195c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-10-04 18:33:13.054471[Thread 0x000041c8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-04 18:33:13.054471[Thread 0x000008a8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-04 18:33:13.054471[Thread 0x00004868]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-10-04 18:33:13.055470[Thread 0x00001fd0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-10-04 18:33:13.055470[Thread 0x000030f0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[error]	2024-10-04 18:33:13.056472[Thread 0x00002b1c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Shelly.stl
+[error]	2024-10-04 18:33:13.057471[Thread 0x00003774]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-10-04 18:33:13.057471[Thread 0x00001138]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-04 18:33:13.060471[Thread 0x000041c8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-04 18:33:13.062472[Thread 0x0000195c]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-04 18:33:13.062472[Thread 0x000008a8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl

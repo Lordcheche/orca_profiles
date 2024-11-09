@@ -1,0 +1,73 @@
+[error]	2024-09-30 18:19:22.918143[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 18:19:22.949146[Thread 0x00001d34]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\T-Square.stl
+[error]	2024-09-30 18:19:22.950171[Thread 0x00002398]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-09-30 18:19:22.951167[Thread 0x00004010]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-09-30 18:19:22.951167[Thread 0x00005848]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-09-30 18:19:22.951167[Thread 0x000016dc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Tools\Storage\Socket.stl
+[error]	2024-09-30 18:19:22.951167[Thread 0x00004ae0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\male lack connector.stl
+[error]	2024-09-30 18:19:22.952168[Thread 0x00002cd8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-09-30 18:19:22.952168[Thread 0x000038e0]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\PSU\Ikea clips.stl
+[error]	2024-09-30 18:19:22.953169[Thread 0x00000ae8]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\jkdfjhgahkjgafghjk.stl
+[error]	2024-09-30 18:19:22.953169[Thread 0x00000658]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-09-30 18:19:22.954169[Thread 0x00002398]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-09-30 18:19:22.954169[Thread 0x00005848]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\Shelly.stl
+[error]	2024-09-30 18:19:22.954169[Thread 0x00001d34]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-09-30 18:19:25.237110[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-09-30 18:19:25.529888[Thread 0x00000658]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-09-30 22:58:09.977985[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.500234[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.646262[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.719278[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.793295[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.883315[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:10.950330[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.011344[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.075357[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.142373[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.204387[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.270401[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.332416[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.394431[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.456444[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.518458[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.579472[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.639486[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.700499[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.761512[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.822526[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.882540[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:11.942553[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.002568[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.062580[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.123595[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.185607[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.245620[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.305635[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.364648[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.424663[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.483675[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.544689[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.604702[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.663715[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.723729[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.782742[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.842756[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.901769[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:12.961782[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.021796[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.081809[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.140823[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.199836[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.259850[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.318863[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.378876[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.437890[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.497902[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.556916[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.616930[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.675944[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.737957[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.796969[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.855984[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.915997[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-09-30 22:58:13.976010[Thread 0x00000658]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

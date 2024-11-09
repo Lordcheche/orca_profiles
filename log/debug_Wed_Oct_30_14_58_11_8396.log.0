@@ -1,0 +1,15 @@
+[error]	2024-10-30 14:58:19.352936[Thread 0x000004c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-10-30 14:58:19.443341[Thread 0x00000a04]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bear\updated body.3mf
+[error]	2024-10-30 14:58:19.452354[Thread 0x000038ac]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Frame\Feet.stl
+[error]	2024-10-30 14:58:19.452354[Thread 0x0000176c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\FamilyNFriends\Kers\Plain_StandV1.stl
+[error]	2024-10-30 14:58:19.453865[Thread 0x00004a64]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Mounts\Z-Rod-Holder-V2.stl
+[error]	2024-10-30 14:58:19.453865[Thread 0x00003a48]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\Corner_panel.stl
+[error]	2024-10-30 14:58:19.453865[Thread 0x000034cc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\BearWise\Mounts\Spool_holder.stl
+[error]	2024-10-30 14:58:19.453865[Thread 0x000004c0]:Unable to open the fileC:\Users\alex\Downloads\2020_cableclip.stl
+[error]	2024-10-30 14:58:19.453865[Thread 0x000051bc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Enclosure\ventilation_tube_connector.stl
+[error]	2024-10-30 14:58:19.454860[Thread 0x00003478]:Unable to open the fileC:\Program Files\OrcaSlicer\resources/calib/tolerance_test/OrcaToleranceTest.stl
+[error]	2024-10-30 14:58:19.459366[Thread 0x000046e0]:File Metadata/plate_1.png not found from archive
+[error]	2024-10-30 14:58:19.460366[Thread 0x000034cc]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Bed-Carriage\Vertical_Belt_Clamp_cap.stl
+[error]	2024-10-30 14:58:19.460366[Thread 0x0000176c]:Unable to open the fileC:\Users\alex\My Drive\3D-Printing Drive\AM8\Electronics\BTT_Octopus_Mount.stl
+[warning]	2024-10-30 14:58:22.728199[Thread 0x000004c0]:Slic3r::NetworkAgent::get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-10-30 14:58:41.135422[Thread 0x000004c0]:Slic3r::GUI::PartPlate::calc_exclude_triangles:Unable to create exclude triangles

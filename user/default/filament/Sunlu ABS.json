@@ -1,0 +1,55 @@
+{
+    "cool_plate_temp": [
+        "100"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "100"
+    ],
+    "default_filament_colour": [
+        "#FF8080"
+    ],
+    "eng_plate_temp": [
+        "100"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "filament_cost": [
+        "10"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_retract_restart_extra": [
+        "0"
+    ],
+    "filament_settings_id": [
+        "Sunlu ABS"
+    ],
+    "filament_vendor": [
+        "Sunlu"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "My Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Sunlu ABS",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.1.1.0"
+}
